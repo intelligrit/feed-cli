@@ -1,5 +1,9 @@
 # feed-cli
 
+<p align="center">
+  <img src="logo.png" alt="feed-cli logo" width="200">
+</p>
+
 A minimal, scriptable RSS/Atom feed reader for the command line. Designed for automation, scripting, and AI systems with JSON-first output.
 
 ## Features
