@@ -1,5 +1,7 @@
 # feed-cli
 
+**An [Intelligrit Labs](https://intelligrit.com#labs) Project**
+
 <p align="center">
   <img src="logo.png" alt="feed-cli logo" width="200">
 </p>
@@ -19,13 +21,13 @@ A minimal, scriptable RSS/Atom feed reader for the command line. Designed for au
 ## Installation
 
 ```bash
-go install github.com/robertmeta/feed-cli/cmd/feed-cli@latest
+go install github.com/intelligrit/feed-cli/cmd/feed-cli@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/robertmeta/feed-cli
+git clone https://github.com/intelligrit/feed-cli
 cd feed-cli
 make build
 # Binary will be in bin/feed-cli
@@ -338,6 +340,10 @@ entry_tags (future)
 - [ ] Web interface (optional)
 - [ ] HTTP caching (ETags, Last-Modified)
 
+## About Intelligrit Labs
+
+feed-cli is developed by [Intelligrit Labs](https://intelligrit.com#labs), the R&D arm of Intelligrit LLC. We build tools for ourselves and release them for everyone. Intelligrit delivers AI-driven IT modernization for federal agencies.
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) file
@@ -356,7 +362,3 @@ Built with:
 - [gofeed](https://github.com/mmcdole/gofeed) by mmcdole
 - [modernc.org/sqlite](https://gitlab.com/cznic/sqlite) by cznic
 - [urfave/cli](https://github.com/urfave/cli) by urfave
-
----
-
-**feed-cli** - Simple, scriptable RSS for the command line.
