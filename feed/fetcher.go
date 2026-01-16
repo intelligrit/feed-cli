@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/mmcdole/gofeed"
-	"github.com/robertmeta/feed-cli/model"
+	"github.com/intelligrit/feed-cli/model"
 )
 
 // Fetcher handles fetching and parsing RSS/Atom feeds.

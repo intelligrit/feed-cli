@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/robertmeta/feed-cli/model"
+	"github.com/intelligrit/feed-cli/model"
 )
 
 // OPML represents the root OPML structure.

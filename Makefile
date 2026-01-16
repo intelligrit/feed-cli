@@ -104,7 +104,7 @@ check: fmt vet test
 # Install from GitHub (test public install)
 install-from-github:
 	@echo "Installing from GitHub..."
-	@go install github.com/robertmeta/feed-cli/cmd/feed-cli@latest
+	@go install github.com/intelligrit/feed-cli/cmd/feed-cli@latest
 	@echo "Installed! Testing..."
 	@which feed-cli
 	@feed-cli --version

@@ -1,4 +1,4 @@
-module github.com/robertmeta/feed-cli
+module github.com/intelligrit/feed-cli
 
 go 1.25.5
 

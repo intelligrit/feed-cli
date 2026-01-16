@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/robertmeta/feed-cli/model"
+	"github.com/intelligrit/feed-cli/model"
 	_ "modernc.org/sqlite"
 )
 

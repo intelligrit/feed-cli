@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/robertmeta/feed-cli/feed"
-	"github.com/robertmeta/feed-cli/model"
-	"github.com/robertmeta/feed-cli/opml"
-	"github.com/robertmeta/feed-cli/store"
+	"github.com/intelligrit/feed-cli/feed"
+	"github.com/intelligrit/feed-cli/model"
+	"github.com/intelligrit/feed-cli/opml"
+	"github.com/intelligrit/feed-cli/store"
 	"github.com/urfave/cli/v2"
 )
 

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robertmeta/feed-cli/model"
+	"github.com/intelligrit/feed-cli/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
